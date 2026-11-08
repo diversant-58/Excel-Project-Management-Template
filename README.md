@@ -203,3 +203,6 @@ This repository serves as the official landing page for Excel Project Management
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Excel Project Management Template today!**
+
+---
+**Last updated:** 2026-11-08 14:08:54 UTC
